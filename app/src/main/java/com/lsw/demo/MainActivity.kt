@@ -15,7 +15,7 @@ import com.lsw.demo.databinding.ActivityMainBinding
  *
  * @property appBarConfiguration AppBarConfiguration
  * @property binding ActivityMainBinding
- * 测试2
+ * 测试23
  */
 class MainActivity : AppCompatActivity() {
 
